@@ -7,4 +7,4 @@ Uses instagram-publisher and sharp for image manipulation and instagram interact
 ### Credits:
 
 Quotes from [Zenquotes](https://zenquotes.io) \
-Images from [Picsum](https://picsum.photos/) \
+Images from [Picsum](https://picsum.photos/)
