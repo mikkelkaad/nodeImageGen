@@ -1,0 +1,6 @@
+/node_modules
+.env
+downloaded_image.jpg
+text-overlay.jpg
+cookies.json
+quotes.json
